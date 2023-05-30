@@ -1,5 +1,8 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+This is the front end side of a full stack application. You can find the back end portion here: https://github.com/Big-Red-Jon/legion-server
+
+
 ## Available Scripts
 
 In the project directory, you can run:
